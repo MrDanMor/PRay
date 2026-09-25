@@ -1,0 +1,4 @@
+C:/Users/danil/Desktop/GameDev/PRay/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/danil/Desktop/GameDev/PRay/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/danil/Desktop/GameDev/PRay/build/Engine/CMakeFiles/PRAY.dir
+C:/Users/danil/Desktop/GameDev/PRay/build/Sandbox/CMakeFiles/Sandbox.dir

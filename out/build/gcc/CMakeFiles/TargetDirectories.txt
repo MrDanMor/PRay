@@ -1,0 +1,9 @@
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/CMakeFiles/edit_cache.dir
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/CMakeFiles/rebuild_cache.dir
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine/CMakeFiles/PRAY.dir
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine/CMakeFiles/PRAY_ShaderBinaries.dir
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine/CMakeFiles/edit_cache.dir
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine/CMakeFiles/rebuild_cache.dir
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Sandbox/CMakeFiles/Sandbox.dir
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Sandbox/CMakeFiles/edit_cache.dir
+C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Sandbox/CMakeFiles/rebuild_cache.dir

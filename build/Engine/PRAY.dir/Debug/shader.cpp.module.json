@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PRAY.dir\\Debug\\shader.obj",
+            "outputs": [
+                "C:\\Users\\danil\\Desktop\\GameDev\\PRay\\build\\Engine\\PRAY.dir\\Debug\\vc143.pdb",
+                "PRAY.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

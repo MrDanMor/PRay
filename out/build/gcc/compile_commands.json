@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPRAY_EXPORTS @CMakeFiles/PRAY.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\PRAY.dir\\src\\control.cpp.obj -c C:\\Users\\danil\\Desktop\\GameDev\\PRay\\Engine\\src\\control.cpp",
+  "file": "C:/Users/danil/Desktop/GameDev/PRay/Engine/src/control.cpp",
+  "output": "Engine/CMakeFiles/PRAY.dir/src/control.cpp.obj"
+},
+{
+  "directory": "C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPRAY_EXPORTS @CMakeFiles/PRAY.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\PRAY.dir\\src\\core.cpp.obj -c C:\\Users\\danil\\Desktop\\GameDev\\PRay\\Engine\\src\\core.cpp",
+  "file": "C:/Users/danil/Desktop/GameDev/PRay/Engine/src/core.cpp",
+  "output": "Engine/CMakeFiles/PRAY.dir/src/core.cpp.obj"
+},
+{
+  "directory": "C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPRAY_EXPORTS @CMakeFiles/PRAY.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\PRAY.dir\\src\\event.cpp.obj -c C:\\Users\\danil\\Desktop\\GameDev\\PRay\\Engine\\src\\event.cpp",
+  "file": "C:/Users/danil/Desktop/GameDev/PRay/Engine/src/event.cpp",
+  "output": "Engine/CMakeFiles/PRAY.dir/src/event.cpp.obj"
+},
+{
+  "directory": "C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPRAY_EXPORTS @CMakeFiles/PRAY.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\PRAY.dir\\src\\render.cpp.obj -c C:\\Users\\danil\\Desktop\\GameDev\\PRay\\Engine\\src\\render.cpp",
+  "file": "C:/Users/danil/Desktop/GameDev/PRay/Engine/src/render.cpp",
+  "output": "Engine/CMakeFiles/PRAY.dir/src/render.cpp.obj"
+},
+{
+  "directory": "C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPRAY_EXPORTS @CMakeFiles/PRAY.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\PRAY.dir\\src\\shader.cpp.obj -c C:\\Users\\danil\\Desktop\\GameDev\\PRay\\Engine\\src\\shader.cpp",
+  "file": "C:/Users/danil/Desktop/GameDev/PRay/Engine/src/shader.cpp",
+  "output": "Engine/CMakeFiles/PRAY.dir/src/shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Engine",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPRAY_EXPORTS @CMakeFiles/PRAY.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\PRAY.dir\\src\\tick.cpp.obj -c C:\\Users\\danil\\Desktop\\GameDev\\PRay\\Engine\\src\\tick.cpp",
+  "file": "C:/Users/danil/Desktop/GameDev/PRay/Engine/src/tick.cpp",
+  "output": "Engine/CMakeFiles/PRAY.dir/src/tick.cpp.obj"
+},
+{
+  "directory": "C:/Users/danil/Desktop/GameDev/PRay/out/build/gcc/Sandbox",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Sandbox.dir/includes_CXX.rsp -g -o CMakeFiles\\Sandbox.dir\\main.cpp.obj -c C:\\Users\\danil\\Desktop\\GameDev\\PRay\\Sandbox\\main.cpp",
+  "file": "C:/Users/danil/Desktop/GameDev/PRay/Sandbox/main.cpp",
+  "output": "Sandbox/CMakeFiles/Sandbox.dir/main.cpp.obj"
+}
+]

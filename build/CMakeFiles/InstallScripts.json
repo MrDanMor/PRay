@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/danil/Desktop/GameDev/PRay/build/cmake_install.cmake",
+		"C:/Users/danil/Desktop/GameDev/PRay/build/Engine/cmake_install.cmake",
+		"C:/Users/danil/Desktop/GameDev/PRay/build/Sandbox/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,10 @@
+^C:\USERS\DANIL\DESKTOP\GAMEDEV\PRAY\ENGINE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danil/Desktop/GameDev/PRay -BC:/Users/danil/Desktop/GameDev/PRay/build --check-stamp-file C:/Users/danil/Desktop/GameDev/PRay/build/Engine/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

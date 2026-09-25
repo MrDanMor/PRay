@@ -1,0 +1,1 @@
+  -LC:/Users/danil/Desktop/GameDev/PRay/Engine/libs/SDL/lib  -LC:/Users/danil/Desktop/GameDev/PRay/Engine/libs/ShaderCross/lib  -lSDL3 -lSDL3_shadercross -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
