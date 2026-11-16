@@ -1,7 +1,5 @@
 #include "SDL3/SDL.h"
 
-// SDL_GPUShader* compileShader(SDL_GPUDevice* device);
-
 
 
 struct SphereData {
